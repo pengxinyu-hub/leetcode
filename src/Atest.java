@@ -5,5 +5,6 @@ public class Atest {
         float f= (float)1e-30;
         System.out.println((double)f);
         System.out.println(121);
+        System.out.println("push test");
     }
 }
