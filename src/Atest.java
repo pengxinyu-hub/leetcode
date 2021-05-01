@@ -6,5 +6,6 @@ public class Atest {
         System.out.println((double)f);
         System.out.println(121);
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
